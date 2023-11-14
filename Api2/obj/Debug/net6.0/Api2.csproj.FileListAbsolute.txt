@@ -30,3 +30,14 @@ C:\Users\stass\source\repos\Api2\Api2\obj\Debug\net6.0\refint\Api2.dll
 C:\Users\stass\source\repos\Api2\Api2\obj\Debug\net6.0\Api2.pdb
 C:\Users\stass\source\repos\Api2\Api2\obj\Debug\net6.0\Api2.genruntimeconfig.cache
 C:\Users\stass\source\repos\Api2\Api2\obj\Debug\net6.0\ref\Api2.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\stass\source\repos\Api2\Api2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
